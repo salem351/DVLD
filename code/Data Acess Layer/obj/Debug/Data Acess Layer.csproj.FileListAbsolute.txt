@@ -1,0 +1,6 @@
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Data Acess Layer\bin\Debug\Data Acess Layer.dll
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Data Acess Layer\bin\Debug\Data Acess Layer.pdb
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Data Acess Layer\obj\Debug\Data Acess Layer.csproj.AssemblyReference.cache
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Data Acess Layer\obj\Debug\Data Acess Layer.csproj.CoreCompileInputs.cache
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Data Acess Layer\obj\Debug\Data Acess Layer.dll
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Data Acess Layer\obj\Debug\Data Acess Layer.pdb
