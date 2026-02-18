@@ -1,0 +1,4 @@
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Business Layer\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Business Layer\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Business Layer\obj\Debug\Business Layer.dll
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\Business Layer\obj\Debug\Business Layer.pdb

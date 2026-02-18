@@ -1,0 +1,9 @@
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\bin\Debug\Business Layer.dll
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\bin\Debug\Business Layer.pdb
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\bin\Debug\Data Acess Layer.dll
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\bin\Debug\Data Acess Layer.pdb
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\obj\Debug\DVLD_MyBusiness.csproj.AssemblyReference.cache
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\obj\Debug\DVLD_MyBusiness.csproj.CoreCompileInputs.cache
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\obj\Debug\DVLD_MyB.6704BEA1.Up2Date
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\obj\Debug\Business Layer.dll
+D:\شهادات كورسات محمد ابو هدهود\كورس 19\DVLD_MySolution\Business Layer\obj\Debug\Business Layer.pdb
